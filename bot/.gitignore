@@ -1,0 +1,15 @@
+# 依存関係
+node_modules/
+package-lock.json
+
+# 環境変数
+.env
+
+# ログ
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS関連
+.DS_Store
+Thumbs.db
